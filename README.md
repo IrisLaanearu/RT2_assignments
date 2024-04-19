@@ -35,4 +35,4 @@ $ jupyter notbeook
 ```bash
 $ roslaunch assignment_2_2023 assignment1.launch
 ```
-5. Now compile and run the notebook with widgets to set the goals, cancel the goals, get the robot position and all the set and cancelled targets in the environment.
+5. Now compile and run the notebook with widgets to set goals, cancel goals, get the robot position and all the set and cancelled targets in the robot environment.
