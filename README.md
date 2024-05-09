@@ -30,7 +30,7 @@ $ pip install jupyter
 ```bash
 $ jupyter notbeook
 ```
-3. In ROS package choose the notebook in the folder __scripts__ with the name __NodeA_jupyter.ipynb__.
+3. Move to the ROS package __assignment_2_2023__ choose the notebook in the folder __scripts__ with the name __NodeA_jupyter.ipynb__.
 
 4. To use the jupyter notebook __NodeA_jupyter.ipynb__ go back to the __src__ folder in your terminal and run the launch file to start the Research Track 1 assignment 2:
 ```bash
