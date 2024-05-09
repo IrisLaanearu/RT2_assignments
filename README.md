@@ -7,19 +7,19 @@ In order to properly document the second assignment of Research Track 1 course t
 The documentation of Research Track 1 assignment can be found here: https://irislaanearu.github.io/RT2_assignments/
 
 ## Assignment 2: Using widgets and data visualization for the Research Track 1 second assignment
-In this assignment:
-- Created a jupyter notebook to replace the user interface (node A)
-- Using widgets to let the user know the position of the robot and all targets that have been set and cancelled in the environment
-- Used FuncAnimation to plot the robot position
-- Added a plot for the number of set and cancelled targets
+In this assignment the author:
+- created a jupyter notebook to replace the user interface (node A) made for the RT1 course
+- used widgets to let the user know the position of the robot and all targets that have been set and cancelled in the environment
+- used FuncAnimation to plot the robot position
+- used FuncAnimation to plot the set and cancelled targets in the environment
 
 In the end, the notebook has:
 - an interface to assign (or cancel) goals to the robot
-- info about the goal status
+- live info about the goal status
 - a plot with the robot´s position and target´s positions in the environment
 - a plot for the number of set and cancelled targets
 
-First download the __RT2_Assignment_2__ ROS workspace folder and move to the ROS package __assignment_2_2023__. 
+First download the __RT2_Assignment_2__ ROS workspace folder with the ROS package __assignment_2_2023__. 
 
 To use the created jupyter notebook follow these steps:
 1. In terminal download Jupyter notebook using the following command:
@@ -30,7 +30,7 @@ $ pip install jupyter
 ```bash
 $ jupyter notbeook
 ```
-3. Choose the notebook in the folder __scripts__ with the name __NodeA_jupyter.ipynb__.
+3. In ROS package choose the notebook in the folder __scripts__ with the name __NodeA_jupyter.ipynb__.
 
 4. To use the jupyter notebook __NodeA_jupyter.ipynb__ go back to the __src__ folder in your terminal and run the launch file to start the Research Track 1 assignment 2:
 ```bash
