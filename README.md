@@ -11,12 +11,13 @@ In this assignment:
 - Created a jupyter notebook to replace the user interface (node A)
 - Using widgets to let the user know the position of the robot and all targets that have been set and cancelled in the environment
 - Used FuncAnimation to plot the robot position
-- Added a plot for the number of reached/not-reached targets
+- Added a plot for the number of set and cancelled targets
 
 In the end, the notebook has:
 - an interface to assign (or cancel) goals to the robot
+- info about the goal status
 - a plot with the robot´s position and target´s positions in the environment
-- a plot for the number of reached/not-reached targets
+- a plot for the number of set and cancelled targets
 
 First download the __RT2_Assignment_2__ ROS workspace folder and move to the ROS package __assignment_2_2023__. 
 
