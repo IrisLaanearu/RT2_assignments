@@ -1,0 +1,8 @@
+prefix=/root/RT1_Assignment_2/devel
+
+Name: second_assignment
+Description: Description of second_assignment
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

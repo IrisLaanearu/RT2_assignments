@@ -1,4 +1,0 @@
-var searchData=
-[
-  ['main_37',['main',['../namespacebug__as.html#a9b1d3f586f8d4174c9c2ba2a074a35ea',1,'bug_as.main()'],['../namespacedistance__from__goal__service.html#ac0f21e74642a311911edad5dd6d1172e',1,'distance_from_goal_service.main()'],['../namespacego__to__point__service.html#aff61ce18210c0b3ae85d5a24810631ef',1,'go_to_point_service.main()'],['../namespacelast__target__service.html#a422651f1bf4d54434bcfed5cc760c186',1,'last_target_service.main()'],['../namespace_q25__node__a.html#a695bd38956ad5eed0bf0b6b1e9e430d5',1,'Q25_node_a.main()'],['../namespace_q26__node__a.html#af47aba5658638d7c9d8e1d5a842d3f8e',1,'Q26_node_a.main()'],['../namespaceuser__interface.html#ac26bdb296b6776907b72c17ce5a1b24a',1,'user_interface.main()'],['../namespaceuser__interface__working.html#a26af6a2ad400d538b6981c9367684087',1,'user_interface_working.main()'],['../namespacewall__follow__service.html#af098a5a5d743dd6860f1403083e4b17d',1,'wall_follow_service.main()']]]
-];
