@@ -1,2 +1,0 @@
-actionlib_tutorials:assignment_2_2023:robot_description:second_assignment
--DCATKIN_DEVEL_PREFIX=/root/RT1_Assignment_2/devel -DCMAKE_INSTALL_PREFIX=/root/RT1_Assignment_2/install -G Unix Makefiles
