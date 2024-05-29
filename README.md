@@ -19,7 +19,7 @@ In the end, the notebook has:
 - a plot with the robot´s position and target´s positions in the environment
 - a plot for the number of set and cancelled targets
 
-First download the __RT2_Assignment_2__ ROS workspace folder with the ROS package __assignment_2_2023__. 
+First download the ROS package __assignment_2_2023__ to your ROS workspace __src__ folder.
 
 To use the created jupyter notebook follow these steps:
 1. In terminal download Jupyter notebook using the following command:
@@ -30,7 +30,7 @@ $ pip install jupyter
 ```bash
 $ jupyter notbeook
 ```
-3. Move to the ROS package __assignment_2_2023__ choose the notebook in the folder __scripts__ with the name __NodeA_jupyter.ipynb__.
+3. Move to the ROS package __assignment_2_2023__ and choose the notebook in the folder __scripts__ with the name __NodeA_jupyter.ipynb__.
 
 4. To use the jupyter notebook __NodeA_jupyter.ipynb__ go back to the __src__ folder in your terminal and run the launch file to start the Research Track 1 assignment 2:
 ```bash
