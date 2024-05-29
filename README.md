@@ -1,5 +1,5 @@
 # Research Track 2 Assignments
-This README will give an overview of the Research Track 2 Assignments. In total there will be 3 Assignments and the Research Line.
+This README will give an overview of the Research Track 2 Assignments. In total there will be 3 Assignments in the continous evaluation of the course.
 
 ## Assignment 1: Documentation of Research Track 1 second assignment
 In order to properly document the second assignment of Research Track 1 course the Sphynx (documentation for software projects) is used because the software language used is python. Sphynx was originally created for Python and therefore better supports the documentation of this project.
@@ -38,5 +38,7 @@ $ roslaunch assignment_2_2023 assignment1.launch
 ```
 5. Now compile and run the notebook with widgets to set goals, cancel goals, get the robot position and all the set and cancelled targets in the robot environment.
 
-## Assignment 3: Statistical Analysis on the Research Track 1 First Assignment 
-The report for the statistical analysis of the assignment is named _RT2_Assignment_3.pdf_. The report is composed of hypothesis made, description of the experimental setup, results, statistical analysis and conclusion.
+## Assignment 3: Statistical Analysis of the Research Track 1 First Assignment 
+The report for the statistical analysis of the assignment is named _RT2_Assignment_3.pdf_. Two algorithms were tested in the simulation environment and the results analysed. The report is composed of hypothesis made, description of the experimental setup, results, statistical analysis and conclusion.
+
+
