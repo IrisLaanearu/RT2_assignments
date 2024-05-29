@@ -6,7 +6,7 @@ In order to properly document the second assignment of Research Track 1 course t
 
 The documentation of Research Track 1 assignment can be found here: https://irislaanearu.github.io/RT2_assignments/
 
-## Assignment 2: Using widgets and data visualization for the Research Track 1 second assignment
+## Assignment 2: Using widgets and data visualization for the Research Track 1 Second Assignment
 In this assignment the author:
 - created a jupyter notebook to replace the user interface (node A) made for the RT1 course
 - used widgets to let the user know the position of the robot and all targets that have been set and cancelled in the environment
@@ -37,3 +37,6 @@ $ jupyter notbeook
 $ roslaunch assignment_2_2023 assignment1.launch
 ```
 5. Now compile and run the notebook with widgets to set goals, cancel goals, get the robot position and all the set and cancelled targets in the robot environment.
+
+## Assignment 3: Statistical Analysis on the Research Track 1 First Assignment 
+The report for the statistical analysis of the assignment is named _RT2_Assignment3.pdf_. The report is composed of hypothesis made, description of the experimental setup, results, statistical analysis and conclusion.
