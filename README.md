@@ -39,4 +39,4 @@ $ roslaunch assignment_2_2023 assignment1.launch
 5. Now compile and run the notebook with widgets to set goals, cancel goals, get the robot position and all the set and cancelled targets in the robot environment.
 
 ## Assignment 3: Statistical Analysis on the Research Track 1 First Assignment 
-The report for the statistical analysis of the assignment is named _RT2_Assignment3.pdf_. The report is composed of hypothesis made, description of the experimental setup, results, statistical analysis and conclusion.
+The report for the statistical analysis of the assignment is named _RT2_Assignment_3.pdf_. The report is composed of hypothesis made, description of the experimental setup, results, statistical analysis and conclusion.
